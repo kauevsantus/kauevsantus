@@ -3,7 +3,7 @@ Hi there, I'm Kauê Santos 👋
 - 💻 I’m currently studying Systems Analysis and Development
 - 📚 I’m currently learning JavaScript, HTML and SQL
 - 😄 Pronouns: He/Him
-- 🎶 Hobby: Listeng Taylor Swift
+- 🎶 Hobby: Listeing Taylor Swift
 
 <div align="center">
   <a href="https://github.com/kauevsantus"> 
