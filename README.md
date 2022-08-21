@@ -5,7 +5,8 @@
 - 😄 Pronouns: He/Him
 - 🎶 Hobby: Listen to Taylor Swift
 
-<div align="center">
+
+<div style="right">
   <a href="https://github.com/kauevsantus"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauevsantus&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevsantus&layout=compact&langs_count=7&theme=vue-dark"/>
