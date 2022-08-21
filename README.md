@@ -3,7 +3,7 @@
 - 💻 I’m currently studying Systems Analysis and Development
 - 📚 I’m currently learning JavaScript, HTML and SQL
 - 😄 Pronouns: He/Him
-- 🎶 Hobby: Listeing Taylor Swift
+- 🎶 Hobby: Listen to Taylor Swift
 
 <div align="center">
   <a href="https://github.com/kauevsantus"> 
