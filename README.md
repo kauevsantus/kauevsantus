@@ -1,7 +1,7 @@
 ## Hi there, I'm Kauê Santos 👋
 
 - 💻 I’m currently studying Systems Analysis and Development
-- 📚 I’m currently learning JavaScript, HTML and SQL
+- 📚 I’m currently learning JavaScript, HTML, SQL and Java
 - 😄 Pronouns: He/Him
 - 🎶 Hobby: Listen to Taylor Swift
 
